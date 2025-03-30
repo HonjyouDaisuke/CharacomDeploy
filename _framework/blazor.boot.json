@@ -1,15 +1,15 @@
 {
   "mainAssemblyName": "CharacomWASM",
   "resources": {
-    "hash": "sha256-7Kb6MEduLnG4iD2d8WktSX/aBnteSAbhuFxUFeL2lgs=",
+    "hash": "sha256-vRnyVApnRSJwrYSiNDJM7Xeh5s4bZo5xon8KoETvJhw=",
     "jsModuleNative": {
-      "dotnet.native.8.0.13.bi1z11puk1.js": "sha256-ErWo44DfODUakPMCAjg/9z+/83Zgn61INt8G4Elfff8="
+      "dotnet.native.8.0.13.bi1z11puk1.js": "sha256-lVv6IDpp5w1+XLScTCfvpSIoDJfclsywuoqwoA96xEI="
     },
     "jsModuleRuntime": {
       "dotnet.runtime.8.0.13.9p4gk9j7tm.js": "sha256-13vqU3hueOALvSTEM8xnJkJj2exVJYtNc1KZelMCDf0="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-pGWLTg8k4/Lxi0QeOLpimgfN22b47Qa53YrSfA/+JOM="
+      "dotnet.native.wasm": "sha256-sbtBfBIyr2bgSCWN4JHGAs60n4Bao2krFVhdSsDMSEE="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
