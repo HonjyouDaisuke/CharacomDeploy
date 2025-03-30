@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CharacomWASM",
   "resources": {
-    "hash": "sha256-BiE62VIe7DwMASD7y0M46fS8/2sUqH6RyFwoiL5eRpc=",
+    "hash": "sha256-jDEgximgNYxmZPP5vqNBYRNerF9k0LHpdOyXhRXVR+w=",
     "jsModuleNative": {
       "dotnet.native.8.0.14.bi1z11puk1.js": "sha256-mq8/T5jj3oAmZhajKdvBjy5YAsTidc+m5B+MNQWebX8="
     },
@@ -23,7 +23,7 @@
       "Azure.Messaging.EventGrid.wasm": "sha256-3dgVFmcc2FNymipAQXhOWjQAA8re+0rOmJ7xdN0Mx4M=",
       "Azure.Security.KeyVault.Secrets.wasm": "sha256-8mq+w3aExW6lQm3MViAdziNSlWowDdwVKmkpsnkRPaA=",
       "Blazored.LocalStorage.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
-      "CharacomWASM.wasm": "sha256-Br/EOH1qRsSF1mf3tBFaPjeMcuLuWuc+XwZ/+waAMok=",
+      "CharacomWASM.wasm": "sha256-2NU5Jb5h55uQR5zZ+eRjnJ1OJJgrFhm5n6N78nN0Zig=",
       "DnsClient.wasm": "sha256-eceUIK3H5UH3xRBrdruSf6WvOjcMQfznNDxqpXzAcPM=",
       "HarfBuzzSharp.wasm": "sha256-GzjgQdiPahf/jak2vKv9L02cURWQze3tYjGEffvNNKk=",
       "LiveChartsCore.SkiaSharpView.Blazor.wasm": "sha256-8XUO6Wf0iabZF5CVd6ikL3BSPbMH/MOAvf65d1kWZLI=",
